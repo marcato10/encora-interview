@@ -21,6 +21,6 @@
 | C | X |   | X |   |   | X |   |   |
 | D |   | X |   |   | X |   |   |   |
 
-### Qual a disciplina que você mais gostou de cursar na faculdade e por quê? (Responder em português)
-## A disciplina que mais gostei foi Estrutura de Dados, pois pude finalmente começar a entender como as coisas são implementadas,
-## como funcionam e é onde os conceitos mais profundos de computação começam, sendo a porta de entrada.
+## Qual a disciplina que você mais gostou de cursar na faculdade e por quê? (Responder em português)
+### A disciplina que mais gostei foi Estrutura de Dados, pois pude finalmente começar a entender como as coisas são implementadas,
+### como funcionam e é onde os conceitos mais profundos de computação começam, tendo sido minha porta de entrada.
